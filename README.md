@@ -1,2 +1,2 @@
 # hello-world
-learning github and python
+My teacher wrote quite a geeky thing in here. I'm not that geek.
